@@ -1,0 +1,72 @@
+{
+    "value": [
+        {
+            "postId": 1593296,
+            "title": "인디 게임의 매력과 발견의 기쁨",
+            "boardId": 28478,
+            "boardDisplayName": "테스트 게시판",
+            "writer": {
+                "displayName": "김아무개",
+                "emailAddress": "test@test.com"
+            },
+            "contents": "",
+            "createdDateTime": "2023-07-05T06:48:50Z",
+            "viewCount": 3,
+            "postType": "notice",
+            "isNewPost": false,
+            "hasInlineImage": false,
+            "commentsCount": 0,
+            "attachmentsCount": 0,
+            "isAnonymous": false,
+            "isOwner": true,
+            "hasReply": false
+        },
+        {
+            "postId": 1593283,
+            "title": "달콤한 자연의 선물: 포도",
+            "boardId": 28478,
+            "boardDisplayName": "테스트 게시판",
+            "writer": {
+                "displayName": "김아무개",
+                "emailAddress": "test@test.com"
+            },
+            "contents": "",
+            "createdDateTime": "2023-07-05T06:48:48Z",
+            "viewCount": 4,
+            "postType": "notice",
+            "isNewPost": false,
+            "hasInlineImage": false,
+            "commentsCount": 0,
+            "attachmentsCount": 0,
+            "isAnonymous": false,
+            "isOwner": true,
+            "hasReply": false
+        },
+        {
+            "postId": 1593753,
+            "title": "위스키: 풍미와 멋을 담은 고급 주류",
+            "boardId": 28478,
+            "boardDisplayName": "테스트 게시판",
+            "writer": {
+                "displayName": "김아무개",
+                "emailAddress": "test@test.com"
+            },
+            "contents": "",
+            "createdDateTime": "2023-08-03T00:44:39Z",
+            "viewCount": 2,
+            "postType": "reply",
+            "parentPostId": 1593289,
+            "isNewPost": true,
+            "hasInlineImage": false,
+            "commentsCount": 0,
+            "attachmentsCount": 2,
+            "isAnonymous": false,
+            "isOwner": true,
+            "hasReply": false
+        }
+    ],
+    "count": 30,
+    "offset": 0,
+    "limit": 30,
+    "total": 108
+}
